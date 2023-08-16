@@ -1,8 +1,3 @@
-#Hi!
-
-I'm your first note created with **Markdown**. If you want to learn about Markdown, you can read me:
-
-
 ## Using Markdown
 
 GitHub supports the standard **Markdown** syntax, providing you with some nice features.
