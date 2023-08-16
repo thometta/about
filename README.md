@@ -70,7 +70,3 @@ var foo = 'bar';
 
 > **Tips:** You can find more information about **Prettify** syntax highlighting [here](https://code.google.com/p/google-code-prettify).
 
-
-### Using Markdown everywhere
-
-Use Markdown with mobile app like Simplenote, Spck Editor or iA Writer on your iPhone, iPad, Android device, or in your web browser at http://stackedit.io. You can update your notes from anywhere.
