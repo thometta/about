@@ -1,4 +1,6 @@
-Hi! I'm your first note created with **Markdown**. If you want to learn about Markdown, you can read me:
+#Hi!
+
+I'm your first note created with **Markdown**. If you want to learn about Markdown, you can read me:
 
 
 ## Using Markdown
